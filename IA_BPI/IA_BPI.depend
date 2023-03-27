@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679893613 source:c:\users\amirak\desktop\anirak_ia\ia_bpi\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1679894296 source:c:\users\amirak\desktop\anirak_ia\ia_bpi\src\globales.cpp
+
